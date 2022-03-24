@@ -16,7 +16,7 @@
 :school: **Publications**
 
 <p float="left">
-    <a href="10.1109/JSEN.2019.2961419">
+    <a href="https://doi.org/10.1109/JSEN.2019.2961419">
      <img alt="Vis" src="images/ieee.png" title="Fluorescence-Based Determination of Olive Oil Quality Using an Endoscopic Smart Mobile Spectrofluorimeter" height="125">
     </a>
     <a href="https://doi.org/10.1039/C7AN00535K">
