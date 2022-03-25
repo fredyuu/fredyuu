@@ -10,9 +10,23 @@
 <img src="https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/344/external-invest-marketing-xnimrodx-lineal-color-xnimrodx.png" alt="react" width="25" height="25" />
 </p>
 
--   :telescope: I’m currently working on building MVP for a cool startup project
+-   💰 I love everything related to investment
+-   :telescope: I’m currently building MVP/(MVE, E for experiment) for a cool startup project
 -   :seedling: I’m currently learning evidence-based entrepreneurship, web, in additional to Data & Analytics
 -   :book: I'm currently reading [Real-Life MBA from Jack Welch](https://www.amazon.com/Real-Life-MBA-Winning-Building-Growing/dp/0062362801)
+
+📚 **2022 Book List**
+
+- Completed - [The Private Equity Playbook](https://www.amazon.com/Private-Equity-Playbook-Managements-Working-ebook/dp/B07NFXRL3K/)
+- WIP - [Real Life MBA](https://www.amazon.com/Real-Life-MBA-Winning-Building-Growing/dp/0062362801)
+- [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
+- [Blitzscaling](https://www.amazon.com/Blitzscaling-Lightning-Fast-Building-Massively-Companies-ebook/dp/B07BBR9KCY/)
+- [Angel](https://www.amazon.com/Angel-Invest-Technology-Startups-Timeless-Investor/dp/0062560700)
+- [Masters of Scale](https://www.amazon.com/Masters-Scale-Surprising-successful-entrepreneurs-ebook/dp/B08PK2HR6H/)
+- [How I built This](https://www.amazon.com/How-Built-This-Unexpected-Entrepreneurs-ebook/dp/B086ML44T1/)
+- [Cryptoassets](https://www.amazon.com/Cryptoassets-Innovative-Investors-Bitcoin-Beyond-ebook/dp/B0743MPV9R)
+- [The Exit Strategy Playbook](https://www.amazon.com/Exit-Strategy-Playbook-Definitive-Selling-Business-ebook/dp/B09D37DS6T)
+
 
 :school: **Publications**
 
