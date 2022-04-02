@@ -31,10 +31,16 @@
     </a>
 </p>
 
-:memo: **Blog**
+:memo: **Blog & Projects**
 
 <p float="left">
     <a href="https://fredyu.me/">
      <img alt="Vis" src="images/blog.png" title="Visual Blog" width="250">
     </a>
+    <a href="https://fredyu.shinyapps.io/age_based_portfolio_versus_balanced_portfolio/">
+     <img alt="Vis" src="images/time_div.png" title="Visual Blog" width="250">
+    </a>    
+    <a href="https://fredyu.shinyapps.io/Selecti/">
+     <img alt="Vis" src="images/allo.png" title="Visual Blog" width="250">
+    </a>    
 </p>
