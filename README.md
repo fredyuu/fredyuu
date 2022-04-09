@@ -10,7 +10,7 @@
 </p>
 
 -   :moneybag: I love everything related to investment
--   :telescope: I’m currently building MVP/(MVE, E for experiment) for a cool startup project
+-   :telescope: I’m currently building MVP/(MVE, E for experiment) for a cool startup project called [Selecti](https://www.selecti.com.au) which democratises and demystifies super investment.
 -   :seedling: I’m currently learning evidence-based entrepreneurship, web, in additional to Data & Analytics
 -   :book: I'm currently reading [Real-Life MBA from Jack Welch](https://www.amazon.com/Real-Life-MBA-Winning-Building-Growing/dp/0062362801)
 
