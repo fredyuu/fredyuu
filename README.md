@@ -12,7 +12,7 @@
 -   :moneybag: I love everything related to investment
 -   :telescope: I’m currently building a cool startup called [Selecti](https://www.selecti.com.au) which aims to democratise and demystify super investment.
 -   :seedling: I’m currently learning evidence-based entrepreneurship, web, in additional to Data & Analytics
--   :book: I'm currently reading [Real-Life MBA from Jack Welch](https://www.amazon.com/Real-Life-MBA-Winning-Building-Growing/dp/0062362801)
+-   :book: I'm currently reading [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 
 :school: **Publications**
 
@@ -48,8 +48,8 @@
 :books: **2022 Book List**
 
 -   Completed - [The Private Equity Playbook](https://www.amazon.com/Private-Equity-Playbook-Managements-Working-ebook/dp/B07NFXRL3K/)
--   WIP - [Real Life MBA](https://www.amazon.com/Real-Life-MBA-Winning-Building-Growing/dp/0062362801)
--   [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
+-   Completed - [Real Life MBA](https://www.amazon.com/Real-Life-MBA-Winning-Building-Growing/dp/0062362801)
+-   WIP - [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 -   [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B07D23CFGR)
 -   [Blitzscaling](https://www.amazon.com/Blitzscaling-Lightning-Fast-Building-Massively-Companies-ebook/dp/B07BBR9KCY/)
 -   [Angel](https://www.amazon.com/Angel-Invest-Technology-Startups-Timeless-Investor/dp/0062560700)
@@ -62,9 +62,9 @@
 -   [Option Trading](https://www.amazon.com/dp/0470497106)
 -   [Positional Option Trading](https://www.amazon.com/dp/1119583519)
 -   [Cryptoassets](https://www.amazon.com/Cryptoassets-Innovative-Investors-Bitcoin-Beyond-ebook/dp/B0743MPV9R)
+-   [Investing Amid Low Expected Returns](https://www.amazon.com/Investing-Amid-Low-Expected-Returns/dp/1119860199)
 -   [In Pursuit of the Perfect Portfolio](https://www.amazon.com/gp/product/B08WYR662K)
 -   [The Exit Strategy Playbook](https://www.amazon.com/Exit-Strategy-Playbook-Definitive-Selling-Business-ebook/dp/B09D37DS6T)
--   [Investing Amid Low Expected Returns](https://www.amazon.com/Investing-Amid-Low-Expected-Returns/dp/1119860199)
 -   [A Random Walk Down Wall Street](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358380)
 -   [A Non-Random Walk Down Wall Street](https://www.amazon.com/Non-Random-Walk-Down-Wall-Street/dp/0691092567)
 -   [Principles for Dealing with the Changing World Order](https://www.amazon.com/dp/1982160276)
