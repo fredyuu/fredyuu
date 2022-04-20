@@ -61,8 +61,6 @@
 -   [Zero to One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
 -   [Asset Allocation](https://www.amazon.com/gp/product/B09BBW5MSK)
 -   [The Allocator's Edge](https://www.amazon.com/Allocators-Edge-alternative-investments-diversification-ebook/dp/B097RL8W37)
--   [Option Trading](https://www.amazon.com/dp/0470497106)
--   [Positional Option Trading](https://www.amazon.com/dp/1119583519)
 -   [Cryptoassets](https://www.amazon.com/Cryptoassets-Innovative-Investors-Bitcoin-Beyond-ebook/dp/B0743MPV9R)
 -   [Investing Amid Low Expected Returns](https://www.amazon.com/Investing-Amid-Low-Expected-Returns/dp/1119860199)
 -   [In Pursuit of the Perfect Portfolio](https://www.amazon.com/gp/product/B08WYR662K)
