@@ -50,6 +50,7 @@
 -   Completed - [The Private Equity Playbook](https://www.amazon.com/Private-Equity-Playbook-Managements-Working-ebook/dp/B07NFXRL3K/)
 -   Completed - [Real Life MBA](https://www.amazon.com/Real-Life-MBA-Winning-Building-Growing/dp/0062362801)
 -   WIP - [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
+-   [The Start-up of You](https://www.amazon.com/Start-up-You-Future-Yourself-Transform-ebook/dp/B00755MHV8)
 -   [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B07D23CFGR)
 -   [Blitzscaling](https://www.amazon.com/Blitzscaling-Lightning-Fast-Building-Massively-Companies-ebook/dp/B07BBR9KCY/)
 -   [Angel](https://www.amazon.com/Angel-Invest-Technology-Startups-Timeless-Investor/dp/0062560700)
