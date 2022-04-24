@@ -54,6 +54,7 @@
 -   [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B07D23CFGR)
 -   [Blitzscaling](https://www.amazon.com/Blitzscaling-Lightning-Fast-Building-Massively-Companies-ebook/dp/B07BBR9KCY/)
 -   [Angel](https://www.amazon.com/Angel-Invest-Technology-Startups-Timeless-Investor/dp/0062560700)
+-   [Blockchain Bubble or Revolution](https://www.amazon.com/Blockchain-Bubble-Revolution-Present-Cryptocurrencies-ebook/dp/B07T13GP1Q)
 -   [Venture Deals](https://www.amazon.com/dp/B07YL8NHLH)
 -   [Masters of Scale](https://www.amazon.com/Masters-Scale-Surprising-successful-entrepreneurs-ebook/dp/B08PK2HR6H/)
 -   [How I built This](https://www.amazon.com/How-Built-This-Unexpected-Entrepreneurs-ebook/dp/B086ML44T1/)
