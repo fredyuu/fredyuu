@@ -50,6 +50,7 @@
 -   Completed - [The Private Equity Playbook](https://www.amazon.com/Private-Equity-Playbook-Managements-Working-ebook/dp/B07NFXRL3K/)
 -   Completed - [Real Life MBA](https://www.amazon.com/Real-Life-MBA-Winning-Building-Growing/dp/0062362801)
 -   WIP - [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
+-   [DeFi and the Future of Finance](https://www.amazon.com/gp/product/B09DJV2QLC/)
 -   [The Start-up of You](https://www.amazon.com/Start-up-You-Future-Yourself-Transform-ebook/dp/B00755MHV8)
 -   [The Voltage Effect: How to Make Good Ideas Great and Great Ideas Scale](https://www.amazon.com/Voltage-Effect-Ideas-Great-Scale/dp/0593239482)
 -   [So Good They Can't Ignore You](https://www.amazon.com/Good-They-Cant-Ignore-You-ebook/dp/B01KFR64LQ/)
