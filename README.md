@@ -10,7 +10,7 @@
 </p>
 
 -   :moneybag: I love everything related to investment
--   :telescope: I’m currently building a cool startup called [Selecti](https://www.selecti.com.au) which aims to democratise and demystify super investment.
+-   :telescope: I’m currently building a cool startup called [Owner Super](https://www.ownersuper.com) which aims to democratise super investment.
 -   :seedling: I’m currently learning evidence-based entrepreneurship, web, in additional to Data & Analytics
 -   :book: I'm currently reading [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 
