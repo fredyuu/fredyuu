@@ -11,8 +11,8 @@
 
 -   :moneybag: I love everything related to investment
 -   :telescope: I’m currently building a cool startup called [Owner Super](https://www.ownersuper.com) which aims to democratise super investment.
--   :seedling: I’m currently learning evidence-based entrepreneurship, web, in additional to Data & Analytics
--   :book: I'm currently reading [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
+-   :seedling: I’m currently learning product management and REACT
+-   :book: I'm currently reading [The Mom Test](https://www.amazon.com/The-Mom-Test-Rob-Fitzpatrick-audiobook/dp/B07RJZKZ7F) 
 
 :school: **Publications**
 
@@ -50,7 +50,8 @@
 -   Completed - [The Private Equity Playbook](https://www.amazon.com/Private-Equity-Playbook-Managements-Working-ebook/dp/B07NFXRL3K/)
 -   Completed - [Real Life MBA](https://www.amazon.com/Real-Life-MBA-Winning-Building-Growing/dp/0062362801)
 -   Completed - [How to Get Startup Ideas](http://www.paulgraham.com/startupideas.html)
--   WIP - [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
+-   Completed - [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
+-   WIP - [The Mom Test](https://www.amazon.com/The-Mom-Test-Rob-Fitzpatrick-audiobook/dp/B07RJZKZ7F) 
 -   [DeFi and the Future of Finance](https://www.amazon.com/gp/product/B09DJV2QLC/)
 -   [The Start-up of You](https://www.amazon.com/Start-up-You-Future-Yourself-Transform-ebook/dp/B00755MHV8)
 -   [The Voltage Effect: How to Make Good Ideas Great and Great Ideas Scale](https://www.amazon.com/Voltage-Effect-Ideas-Great-Scale/dp/0593239482)
