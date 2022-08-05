@@ -65,7 +65,6 @@
 -   [Masters of Scale](https://www.amazon.com/Masters-Scale-Surprising-successful-entrepreneurs-ebook/dp/B08PK2HR6H/)
 -   [How I built This](https://www.amazon.com/How-Built-This-Unexpected-Entrepreneurs-ebook/dp/B086ML44T1/)
 -   [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Hard-Things-audiobook/dp/B00I0A6HUO)
--   [Zero to One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
 -   [Asset Allocation](https://www.amazon.com/gp/product/B09BBW5MSK)
 -   [The Allocator's Edge](https://www.amazon.com/Allocators-Edge-alternative-investments-diversification-ebook/dp/B097RL8W37)
 -   [Cryptoassets](https://www.amazon.com/Cryptoassets-Innovative-Investors-Bitcoin-Beyond-ebook/dp/B0743MPV9R)
