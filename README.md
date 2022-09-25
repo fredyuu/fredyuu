@@ -11,8 +11,8 @@
 
 -   :moneybag: I love everything related to investment
 -   :telescope: I’m currently building a cool startup called [Owner Super](https://www.ownersuper.com) which aims to democratise super investment.
--   :seedling: I’m currently learning product management and REACT
--   :book: I'm currently reading [Zero to One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
+-   :seedling: I’m currently learning SMSF regulation and Python
+-   :book: I'm currently reading [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862)
 
 :school: **Publications**
 
