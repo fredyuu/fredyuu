@@ -28,23 +28,6 @@
     </a>
 </p>
 
-:memo: **Blog & Projects**
-
-<p float="left">
-    <a href="https://fredyu.me/">
-     <img alt="Vis" src="images/blog.png" title="Visual Blog" width="250">
-    </a>
-    <a href="https://fredyu.shinyapps.io/age_based_portfolio_versus_balanced_portfolio/">
-     <img alt="Vis" src="images/time_div.png" title="Visual Blog" width="250">
-    </a>    
-    <a href="https://fredyu.shinyapps.io/Selecti/">
-     <img alt="Vis" src="images/allo.png" title="Visual Blog" width="250">
-    </a> 
-    <a href="https://fredyu.shinyapps.io/SelectiApp/">
-     <img alt="Vis" src="images/app.png" title="Visual Blog" width="250">
-    </a> 
-</p>
-
 :books: **2022 Book List**
 
 -   Completed - [The Private Equity Playbook](https://www.amazon.com/Private-Equity-Playbook-Managements-Working-ebook/dp/B07NFXRL3K/)
