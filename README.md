@@ -11,7 +11,7 @@
 
 -   :moneybag: I love everything related to investment
 -   :telescope: I’m currently building a cool startup called [Owner Super](https://www.ownersuper.com) which aims to democratise super investment.
--   :seedling: I’m currently learning SMSF regulation and Python
+-   :seedling: I’m currently researching home buying in rate rising environment, asset allocation, private investments
 -   :book: I'm currently reading [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862)
 
 :school: **Publications**
