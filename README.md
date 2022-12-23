@@ -11,8 +11,8 @@
 
 -   :moneybag: I love everything related to investment
 -   :telescope: I’m currently building a cool startup called [Owner Super](https://www.ownersuper.com) which aims to democratise super investment by taking out active investment managers
--   :seedling: I’m currently researching home buying in rate rising environment, asset allocation, private investments
--   :book: I'm currently reading [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862)
+-   :seedling: I’m currently researching property investment (especially in rate rising environment), asset allocation, private investments
+-   :book: I'm currently reading [Investing Amid Low Expected Returns](https://www.amazon.com/Investing-Amid-Low-Expected-Returns/dp/1119860199)
 
 :school: **Publications**
 
