@@ -28,7 +28,7 @@
     </a>
 </p>
 
-:books: **2022 Book List**
+:books: **Book List (from mid 2022)**
 
 -   Completed - [The Private Equity Playbook](https://www.amazon.com/Private-Equity-Playbook-Managements-Working-ebook/dp/B07NFXRL3K/)
 -   Completed - [Real Life MBA](https://www.amazon.com/Real-Life-MBA-Winning-Building-Growing/dp/0062362801)
@@ -36,7 +36,11 @@
 -   Completed - [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 -   Completed - [The Mom Test](https://www.amazon.com/The-Mom-Test-Rob-Fitzpatrick-audiobook/dp/B07RJZKZ7F) 
 -   Completed - [Zero to One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
--   WIP - [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862)
+-   Completed - [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862)
+-   Completed - [The Success Equation](https://www.amazon.com/The-Success-Equation-audiobook/dp/B00AKL36A0/)
+-   Completed - [Federation Houses](https://www.amazon.com/Federation-Houses-Australias-Own-Style/dp/B071ZD4T1P)
+-   WIP - [物语日本史 - ひらいずみきよし Hiraizumi Kiyoshi](https://www.amazon.com/%E7%89%A9%E8%AF%AD%E6%97%A5%E6%9C%AC%E5%8F%B2-%E5%A5%97%E8%A3%85%E5%85%B13%E5%86%8C-%E5%B9%B3%E6%B3%89%E6%BE%84/dp/B01N22PHNO)
+-   WIP - [Investing Amid Low Expected Returns](https://www.amazon.com/Investing-Amid-Low-Expected-Returns/dp/1119860199)
 -   [DeFi and the Future of Finance](https://www.amazon.com/gp/product/B09DJV2QLC/)
 -   [The Start-up of You](https://www.amazon.com/Start-up-You-Future-Yourself-Transform-ebook/dp/B00755MHV8)
 -   [The Voltage Effect: How to Make Good Ideas Great and Great Ideas Scale](https://www.amazon.com/Voltage-Effect-Ideas-Great-Scale/dp/0593239482)
@@ -52,7 +56,7 @@
 -   [Asset Allocation](https://www.amazon.com/gp/product/B09BBW5MSK)
 -   [The Allocator's Edge](https://www.amazon.com/Allocators-Edge-alternative-investments-diversification-ebook/dp/B097RL8W37)
 -   [Cryptoassets](https://www.amazon.com/Cryptoassets-Innovative-Investors-Bitcoin-Beyond-ebook/dp/B0743MPV9R)
--   [Investing Amid Low Expected Returns](https://www.amazon.com/Investing-Amid-Low-Expected-Returns/dp/1119860199)
+
 -   [In Pursuit of the Perfect Portfolio](https://www.amazon.com/gp/product/B08WYR662K)
 -   [The Exit Strategy Playbook](https://www.amazon.com/Exit-Strategy-Playbook-Definitive-Selling-Business-ebook/dp/B09D37DS6T)
 -   [A Random Walk Down Wall Street](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358380)
