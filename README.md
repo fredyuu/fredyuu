@@ -10,7 +10,7 @@
 </p>
 
 -   :moneybag: I love everything related to investment
--   :telescope: I’m currently building a cool startup called [Owner Super](https://www.ownersuper.com) which aims to democratise super investment by taking out active investment managers
+-   :telescope: I’m currently studying something [cool](https://www.sydney.edu.au/handbooks/medicine_health_pg/coursework_pz/pharmaceutical_medical_device/unit_of_study_table.html)
 -   :seedling: I’m currently researching property investment (especially in rate rising environment), asset allocation, private investments
 -   :book: I'm currently reading [Investing Amid Low Expected Returns](https://www.amazon.com/Investing-Amid-Low-Expected-Returns/dp/1119860199)
 
