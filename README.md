@@ -2,13 +2,6 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-fred__yu1-blue?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/fred_yu1)](https://www.twitter.com/fred_yu1) [![Blog Badge](https://img.shields.io/badge/-Personal%20Blog-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://fredyu.me/)](https://www.fredyu.me/) [![Linkedin Badge](https://img.shields.io/badge/-FredYu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fy2/)](https://www.linkedin.com/in/fy2/)![](https://visitor-badge.glitch.me/badge?page_id=https://github.com/fredyuu&style=flat-square&color=0088cc)
 
-<p align="left">
-<img src="https://www.r-project.org/Rlogo.png" alt="react" width="25" height="25" />
-<img src="https://img.icons8.com/cotton/344/book.png" alt="react" width="25" height="25" />
-<img src="https://img.icons8.com/material/452/programming.png" alt="react" width="25" height="25" />
-<img src="https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/344/external-invest-marketing-xnimrodx-lineal-color-xnimrodx.png" alt="react" width="25" height="25" />
-</p>
-
 -   :moneybag: I love everything related to investment
 -   :telescope: I’m currently studying medicine, specialising in pharmaceuticals and med device development
 -   :seedling: I’m currently researching property investment (especially in rate rising environment), asset allocation, private investments
