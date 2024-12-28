@@ -2,24 +2,9 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-fred__yu1-blue?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/fred_yu1)](https://www.twitter.com/fred_yu1) [![Blog Badge](https://img.shields.io/badge/-Personal%20Blog-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://fredyu.me/)](https://www.fredyu.me/) [![Linkedin Badge](https://img.shields.io/badge/-FredYu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fy2/)](https://www.linkedin.com/in/fy2/)![](https://visitor-badge.glitch.me/badge?page_id=https://github.com/fredyuu&style=flat-square&color=0088cc)
 
--   :moneybag: I love everything related to investment
--   :telescope: I’m currently studying medicine, specialising in pharmaceuticals and med device development
--   :seedling: I’m currently researching property investment (especially in rate rising environment), asset allocation, private investments
--   :book: I'm currently reading [Investing Amid Low Expected Returns](https://www.amazon.com/Investing-Amid-Low-Expected-Returns/dp/1119860199)
-
-:school: **Publications**
-
-<p float="left">
-    <a href="https://doi.org/10.1109/JSEN.2019.2961419">
-     <img alt="Vis" src="images/ieee.png" title="Fluorescence-Based Determination of Olive Oil Quality Using an Endoscopic Smart Mobile Spectrofluorimeter" height="125">
-    </a>
-    <a href="https://doi.org/10.1039/C7AN00535K">
-     <img alt="Vis" src="images/analyst.jpeg" title="Time-resolved and temperature tuneable measurements of fluorescent intensity using a smartphone fluorimeter" height="125">
-    </a>
-    <a href="https://doi.org/10.1364/APOS.2016.W2A.2">
-     <img alt="Vis" src="images/optica.jpeg" title="Temperature Controlled Portable Smartphone Fluorimeter" height="125">
-    </a>
-</p>
+-   :moneybag: I love everything related to growth, personal development and investment
+-   :seedling: I’m currently learning [Generative AI for Software Development](https://www.coursera.org/professional-certificates/generative-ai-for-software-development) and [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)
+-   :book: I'm currently reading [Outlive: The Science and Art of Longevity](https://www.amazon.com.au/Outlive-Longevity-Peter-Attia-MD/dp/0593236599)
 
 :books: **2025 Books**
 
