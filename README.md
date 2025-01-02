@@ -8,7 +8,7 @@
 
 :books: **2025 Books**
 
--   [Outlive: The Science and Art of Longevity](https://www.amazon.com.au/Outlive-Longevity-Peter-Attia-MD/dp/0593236599)
+-   COMPLETED - [Outlive: The Science and Art of Longevity](https://www.amazon.com.au/Outlive-Longevity-Peter-Attia-MD/dp/0593236599)
 -   [MAKE: Bootstrapper's Handbook](https://www.goodreads.com/book/show/39165640-make)
 -   [The Lock and Key of Medicine: Monoclonal Antibodies and the Transformation of Healthcare](https://www.amazon.com.au/Lock-Key-Medicine-Monoclonal-Transformation/dp/0300167733)
 -   [The Systems View of Life : A Unifying Vision](https://www.amazon.com.au/Systems-View-Life-Unifying-Vision/dp/1316616436)
