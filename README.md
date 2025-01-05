@@ -26,22 +26,6 @@
 -   [A Bigger Picture](https://www.amazon.com.au/Bigger-Picture-new-foreword-ebook/dp/B09DTVCKSK)
 -   [Invent and Wander: The Collected Writings of Jeff Bezos](https://www.amazon.com.au/Invent-Wander-Collected-Writings-Introduction-ebook/dp/B08BCCT6MW)
 
-:books: **Completed Books from 2022**
-
--   Completed - [The Private Equity Playbook](https://www.amazon.com/Private-Equity-Playbook-Managements-Working-ebook/dp/B07NFXRL3K/)
--   Completed - [Real Life MBA](https://www.amazon.com/Real-Life-MBA-Winning-Building-Growing/dp/0062362801)
--   Completed - [How to Get Startup Ideas](http://www.paulgraham.com/startupideas.html)
--   Completed - [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
--   Completed - [The Mom Test](https://www.amazon.com/The-Mom-Test-Rob-Fitzpatrick-audiobook/dp/B07RJZKZ7F) 
--   Completed - [Zero to One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
--   Completed - [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862)
--   Completed - [The Success Equation](https://www.amazon.com/The-Success-Equation-audiobook/dp/B00AKL36A0/)
--   Completed - [Federation Houses](https://www.amazon.com/Federation-Houses-Australias-Own-Style/dp/B071ZD4T1P)
--   Completed - [Investing Amid Low Expected Returns](https://www.amazon.com/Investing-Amid-Low-Expected-Returns/dp/1119860199)
--   Completed - [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Hard-Things-audiobook/dp/B00I0A6HUO)
--   Completed - [The Start-up of You](https://www.amazon.com/Start-up-You-Future-Yourself-Transform-ebook/dp/B00755MHV8)
--   Completed - [DeFi and the Future of Finance](https://www.amazon.com/gp/product/B09DJV2QLC/)
-
 :books: **Backlog**
 -   [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B07D23CFGR)
 -   [Blitzscaling](https://www.amazon.com/Blitzscaling-Lightning-Fast-Building-Massively-Companies-ebook/dp/B07BBR9KCY/)
