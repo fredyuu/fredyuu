@@ -4,11 +4,13 @@
 
 -   :moneybag: I love everything related to growth, personal development and investment
 -   :seedling: I’m currently learning [Generative AI for Software Development](https://www.coursera.org/professional-certificates/generative-ai-for-software-development) and [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)
--   :book: I'm currently reading [Outlive: The Science and Art of Longevity](https://www.amazon.com.au/Outlive-Longevity-Peter-Attia-MD/dp/0593236599)
+-   :book: I'm currently reading [MAKE: Bootstrapper's Handbook](https://www.goodreads.com/book/show/39165640-make)
 
 :books: **2025 Books**
 
 -   COMPLETED - [Outlive: The Science and Art of Longevity](https://www.amazon.com.au/Outlive-Longevity-Peter-Attia-MD/dp/0593236599)
+-   COMPLETED - [AI Snake Oil: What Artificial Intelligence Can Do, What It Can’t, and How to Tell the Difference](https://www.amazon.com.au/Snake-Oil-Artificial-Intelligence-Difference-ebook/dp/B0CW1JCKVL)
+-   [The Five Dysfunctions of a Team](https://www.amazon.com.au/Five-Dysfunctions-Team-Leadership-Lencioni-ebook/dp/B006960LQW)
 -   [MAKE: Bootstrapper's Handbook](https://www.goodreads.com/book/show/39165640-make)
 -   [The Lock and Key of Medicine: Monoclonal Antibodies and the Transformation of Healthcare](https://www.amazon.com.au/Lock-Key-Medicine-Monoclonal-Transformation/dp/0300167733)
 -   [The Systems View of Life : A Unifying Vision](https://www.amazon.com.au/Systems-View-Life-Unifying-Vision/dp/1316616436)
