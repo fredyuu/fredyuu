@@ -10,6 +10,8 @@
 
 -   COMPLETED - [Outlive: The Science and Art of Longevity](https://www.amazon.com.au/Outlive-Longevity-Peter-Attia-MD/dp/0593236599)
 -   COMPLETED - [AI Snake Oil: What Artificial Intelligence Can Do, What It Can’t, and How to Tell the Difference](https://www.amazon.com.au/Snake-Oil-Artificial-Intelligence-Difference-ebook/dp/B0CW1JCKVL)
+-   COMPLETED -  [Invent and Wander: The Collected Writings of Jeff Bezos](https://www.amazon.com.au/Invent-Wander-Collected-Writings-Introduction-ebook/dp/B08BCCT6MW)
+-   COMPLETED -[The Underdog Founder: How to Go From Unseen to Unstoppable](https://www.amazon.com.au/Underdog-Founder-How-Unseen-Unstoppable-ebook/dp/B0CH9D22YH)
 -   [The Five Dysfunctions of a Team](https://www.amazon.com.au/Five-Dysfunctions-Team-Leadership-Lencioni-ebook/dp/B006960LQW)
 -   [MAKE: Bootstrapper's Handbook](https://www.goodreads.com/book/show/39165640-make)
 -   [The Lock and Key of Medicine: Monoclonal Antibodies and the Transformation of Healthcare](https://www.amazon.com.au/Lock-Key-Medicine-Monoclonal-Transformation/dp/0300167733)
@@ -24,7 +26,6 @@
 -   [So Good They Can't Ignore You](https://www.amazon.com/Good-They-Cant-Ignore-You-ebook/dp/B01KFR64LQ/)
 -   [The Pharmagellan Guide to Analyzing Biotech Clinical Trials](https://www.amazon.com.au/Pharmagellan-Analyzing-Biotech-Clinical-Trials/dp/0998407526)
 -   [A Bigger Picture](https://www.amazon.com.au/Bigger-Picture-new-foreword-ebook/dp/B09DTVCKSK)
--   [Invent and Wander: The Collected Writings of Jeff Bezos](https://www.amazon.com.au/Invent-Wander-Collected-Writings-Introduction-ebook/dp/B08BCCT6MW)
 
 :books: **Backlog**
 -   [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B07D23CFGR)
